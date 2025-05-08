@@ -4,25 +4,28 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Mustafa Bohra 
-
-Hello, I'm Mustafa Bohra.  
-I have 2 years of experience with data and have been studying as a Data Scientist and Machine Learning Engineer for 2 years, continuously learning and growing in the field.
-
-I study consistently and document my learning on my blog.  
-I read AI papers and occasionally summarize them here.  
-I also participate in AI competitions from time to time to explore new domains.
+# [**Mustafa Bohra**](http://linkedin.com/in/mmabohra)
+- Computer Science student at the University of Wollongong, Dubai  
+- Focused on AI/ML, Deep Learning, NLP, and Data-Driven Solutions  
+- Based in Dubai, UAE  
+- Reach me at: [mmabohra@gmail.com](mailto:mmabohra@gmail.com)
 
 ---
-
-### Information  
-👶 2005-01-01 | 🏠 Dubai, UAE  
-📧 mmabohra@gmail.com  
-💻 [GitHub](#) | 👩‍💻 [LinkedIn](#) | 🎨 [Instagram](#)
-
+### <u>Skills</u>
+<div align="center">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
 ---
 
-### Interests
+### <u>Interests</u>
 
 **Artificial Intelligence (ML/DL)**  
 • Medical AI – Histopathology, Cytopathology  
@@ -40,17 +43,19 @@ I also participate in AI competitions from time to time to explore new domains.
 
 ---
 
-### Working Experience
+### <u>Working Experience</u>
 
-**University of Wollongong in Dubai** | Apr 2025 – Current  
-➔ **Research Assistant**  
+- **University of Wollongong in Dubai** | Apr 2025 – Current  
+➔ Research Assistant  
 ➔ Roles: Data Scientist, Machine Learning Engineer
+
+- **Al Mubaraka Perfumes** | Dec 2025 – Feb 2025  
+➔ Data Science Intern  
 
 ---
 
-### Education
+### <u>Education</u>
 
-**B.S. in Computer Science**  
-University of Wollongong | Expected Jan 2026  
+- **B.S. in Computer Science**  University of Wollongong | Expected Jan 2026  
 ➔ Pattern Formation in PDEs  
 ➔ Neural Networks, Feature Engineering, Segmentation
