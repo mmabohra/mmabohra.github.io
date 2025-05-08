@@ -1,8 +1,8 @@
 ---
-title: "Deep Learning Applications in Medical Imaging"
+title: "Medical Imaging | InceptionV3"
 date: 2025-04-25 00:00:00 +0800
-categories: [project]
-tags: [machine learning, AI, deep learning, CNN]
+categories: [AI | Project]
+tags: [machine-learning, ai, python, deep-learning, cnn]
 description: "Let's explore the Inception-inspired deep learning model and understand its architecture, formulas, and underlying theory."
 math: True
 ---
