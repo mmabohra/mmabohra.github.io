@@ -6,7 +6,13 @@ tags: [machine-learning, generative-ai, llm, python, rag]
 description: "Build a smart Q&A system using LangChain, ChromaDB, and Ollama to combine LLMs with real-time document retrieval."
 math: True
 ---
-
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+</style>
 ---
 > **<u>KEYWORDS</u>** <br>
 Generative AI, LLMs, RAG Architecture, ChromaDB, LangChain, Ollama 

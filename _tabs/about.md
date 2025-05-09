@@ -3,8 +3,15 @@
 icon: fas fa-info-circle
 order: 4
 ---
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+  }
+</style>
 
-# [**Mustafa Bohra**](https://linkedin.com/in/mmabohra)
+# [**Mustafa Bohra | مصطفى**](https://linkedin.com/in/mmabohra)
 Computer Science student at the University of Wollongong, Dubai  
 - Focused on AI/ML, Deep Learning, NLP, and Data-Driven Solutions  
 - Based in Dubai, UAE  
@@ -53,3 +60,11 @@ Computer Science student at the University of Wollongong, Dubai
 - **B.S. in Computer Science**  University of Wollongong | Expected Jan 2026  
 ➔ Pattern Formation in PDEs  
 ➔ Neural Networks, Feature Engineering, Segmentation
+
+---
+
+## **Study Roadmap**
+- [X] &nbsp;[Advanced Deep Learning using TensorFlow](https://youtube.com) <sup>cognitive</sup>  \| [`Certificate`](https://www.credly.com/badges/aa6fbc08-53b3-4192-836f-d7d17405b2c2/public_url)
+- [x] &nbsp;[Cloud Engineering](https://www.cloudskillsboost.google/course_templates/695?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=45472625) <sup>qwiklabs</sup> \| [`Certificate`](https://www.cloudskillsboost.google/public_profiles/f11fd7a0-6efd-4897-b249-c49d2e76ad8c/badges/15225450)
+
+
