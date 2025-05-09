@@ -176,10 +176,6 @@ $$
 
 ## References
 
-[^1]: [D. Manikandan et al., "Smart Meter Data Analytics for Grid Optimization," *IEEE Access*, 2021]()  
-[^2]: [S. Parhizi et al., "State of the Art in Research on Microgrids," *IEEE Access*, 2015]()  
-[^3]: [Y. Liu et al., “False Data Injection Attacks against Power Systems,” *IEEE Trans. Smart Grid*, 2014]()  
-[^4]: [Q. Yang et al., "Federated Machine Learning: Concept and Applications," *ACM TIST*, 2019]()  
-[^5]: [Z. Wu et al., “A Comprehensive Survey on Graph Neural Networks,” *IEEE Trans. Neural Networks*, 2021]()  
-
+[^1]: [D. Manikandan et al., "Smart Meter Data Analytics for Grid Optimization," *IEEE Access*, 2021](https://ieeexplore.ieee.org/document/10568661/)  
+[^2]: [S. Parhizi et al., "State of the Art in Research on Microgrids," *IEEE Access*, 2015](https://ieeexplore.ieee.org/document/7120901)  
 ---
