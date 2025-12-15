@@ -33,7 +33,7 @@ Computer Science student at the University of Wollongong, Dubai
 ### <u>Interests</u>
 
 **Artificial Intelligence (ML/DL)**  
-• Medical AI – Histopathology, Cytopathology  
+• Medical AI 
 • Computer Vision – ViT, VLM  
 • Time-series Forecasting – LSTM, Transformer  
 • NLP – LLMs, SLMs, Audio (Speech), OOD Detection, XAI
@@ -41,19 +41,14 @@ Computer Science student at the University of Wollongong, Dubai
 **MLOps**  
 • Kafka, FastAPI, Docker, GCP, AWS
 
-**Mathematical Modeling**  
-• Dynamics – ODEs, PDEs  
-• Topological Data Analysis  
-• Mathematical Data Science, Graph Theory
-
 ### <u>Working Experience</u>
 
-- **University of Wollongong in Dubai** | Apr 2025 – Current  
+- **University of Wollongong in Dubai** | May 2025 – Current  
 ➔ Research Assistant  
 ➔ Roles: Data Scientist, Machine Learning Engineer
 
-- **Al Mubaraka Perfumes** | Dec 2025 – Feb 2025  
-➔ Data Science Intern  
+- **Al Mubaraka Perfumes** | Dec 2024 – Feb 2025  
+➔ ML Engineering Intern
 
 ### <u>Education</u>
 
