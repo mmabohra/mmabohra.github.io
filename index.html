@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Michael Smith | Portfolio</title>
+  <!-- GitHub Pages SPA routing: restore path from query param set by 404.html -->
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var p = params.get('p');
+      if (p) {
+        var h = params.get('h') || '';
+        params.delete('p');
+        params.delete('h');
+        var qs = params.toString();
+        window.history.replaceState(
+          null, null,
+          p + (qs ? '?' + qs : '') + h
+        );
+      }
+    })();
+  </script>
+  <script type="module" crossorigin src="/assets/index-FCpskz8W.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-LuHgiFeq.css">
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>
