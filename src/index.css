@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Instrument+Serif:ital,wght@0,400;1,400&display=swap');
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@theme {
+  --font-body: "Inter", sans-serif;
+  --font-display: "Instrument Serif", serif;
+
+  --color-bg: hsl(var(--bg));
+  --color-surface: hsl(var(--surface));
+  --color-text-primary: hsl(var(--text));
+  --color-muted: hsl(var(--muted));
+  --color-stroke: hsl(var(--stroke));
+}
+
+@layer base {
+  :root {
+    --bg: 0 0% 4%;
+    --surface: 0 0% 8%;
+    --text: 0 0% 96%;
+    --muted: 0 0% 53%;
+    --stroke: 0 0% 12%;
+    --accent: 0 0% 96%;
+  }
+
+  body {
+    @apply bg-bg text-text-primary font-body antialiased selection:bg-text-primary selection:text-bg;
+    overflow-x: hidden;
+  }
+
+  .font-display {
+    font-family: "Instrument Serif", serif !important;
+    font-style: italic !important;
+    font-synthesis: none !important;
+    letter-spacing: -0.05em;
+  }
+
+  .markdown-body {
+    @apply text-text-primary/90 leading-relaxed;
+  }
+
+  .markdown-body h1 {
+    @apply text-3xl md:text-5xl font-display italic mb-8 mt-12;
+  }
+
+  .markdown-body h2 {
+    @apply text-2xl md:text-3xl font-display italic mb-6 mt-10;
+  }
+
+  .markdown-body p {
+    @apply mb-6 text-base md:text-lg;
+  }
+
+  .markdown-body ul,
+  .markdown-body ol {
+    @apply mb-6 ml-6 list-disc;
+  }
+
+  .markdown-body li {
+    @apply mb-2;
+  }
+
+  .markdown-body blockquote {
+    @apply border-l-2 border-stroke pl-6 italic text-muted my-10;
+  }
+}
+
+@layer utilities {
+  .accent-gradient {
+    background: linear-gradient(90deg, #89AACC 0%, #4E85BF 100%);
+  }
+
+  .blur-in {
+    opacity: 0;
+  }
+
+  .name-reveal {
+    opacity: 0;
+  }
+}
+
+@keyframes scroll-down {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateY(200%);
+  }
+}
+
+.animate-scroll-down {
+  animation: scroll-down 1.5s ease-in-out infinite;
+}
+
+@keyframes role-fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-role-fade-in {
+  animation: role-fade-in 0.4s ease-out forwards;
+}
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient-shift {
+  background-size: 200% 200%;
+  animation: gradient-shift 6s ease infinite;
+}
